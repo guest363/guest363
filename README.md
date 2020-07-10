@@ -1,4 +1,9 @@
-### Hi there 👋
+### Привет 👋
+
+### Контакты 📫
+- ✉️ moiseev_oleg@pm.me
+- 👷 [Habr career](https://career.habr.com/owl-shaker)
+- 📞 Telegramm @moiseev_oleg
 
 <!--
 **guest363/guest363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
