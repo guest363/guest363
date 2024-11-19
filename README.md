@@ -15,6 +15,6 @@
   - [Тестовое на Svelte](https://github.com/guest363/test-laser).
 
 ### Контакты 📫
-- ✉️ moiseev_oleg@pm.me
+- ✉️ dev@guest363.ru
 - 👷 [Habr career](https://career.habr.com/owl-shaker)
 - 📞 [Telegram](https://t.me/moiseev_oleg)
